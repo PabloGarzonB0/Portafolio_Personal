@@ -1,4 +1,5 @@
 ## PORTAFOLIO WEB DE PABLO CESAR GARZON BENÍTEZ (Version V1. beta)
+![Dark Green Minimalist Inspirational Quote LinkedIn Banner](https://github.com/user-attachments/assets/729b0119-153c-4c98-99f4-1d1fcacefb3b)
 &#128396; Este proyecto todavía se encuentra en desarrollo... 
 <p align = "center">
   <img src="https://img.shields.io/badge/Hellow-word-8A9B52">
