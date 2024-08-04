@@ -45,3 +45,8 @@
 
 | [<img src="https://avatars.githubusercontent.com/u/79424389?v=4" width=115><br><sub>Pablo Cesar Garzon Benitez</sub>](https://github.com/PabloGarzonB0) |
 | :---: |
+
+<!--Estos son los tipos de comentarios que existen dentro del lenguaje markup-->
+[Primer tipo de comentario]: # (Primer comentario)
+[Comentario 2]: <> (Segundo comentario)
+[//]: <> (Tercer tipo de comentario)
