@@ -1,21 +1,22 @@
 ## PORTAFOLIO WEB DE PABLO CESAR GARZON BENÍTEZ (Version V1. beta)
-![Dark Green Minimalist Inspirational Quote LinkedIn Banner](https://github.com/user-attachments/assets/729b0119-153c-4c98-99f4-1d1fcacefb3b)
-&#128396; Este proyecto todavía se encuentra en desarrollo... 
+
+> [!IMPORTANT]
+>Este repositorio se encuentra bajo mejoras mientras vamos aprendiendo nuevos conceptos, no desespereis que estará listo en poco.
+
+
+![interfazGrafica](assets/Assets-aula2-curso3-html-e-css-main/assets/InterfazPortafolio.png)
+
 <p align = "center">
-  <img src="https://img.shields.io/badge/Hellow-word-8A9B52">
+ &#128396;<img src="https://img.shields.io/badge/V1.0-InProcess-8A9B52">
 </p>
 
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+---
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
